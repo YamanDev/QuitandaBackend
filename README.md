@@ -37,6 +37,7 @@ Já criei a camada de testes do projeto integrada com o Maven, porém preciso cr
 
 !!!NÃO ESQUEUCER!!!
 Preciso do maven para rodar o projeto. É springboot, não SpringBreak! 
+Lembrar de baixar o SQL Developer para conectar no banco, ao invés de usar o shell. Arquivo com dados de acesso ao banco em application.properties
 # EOF
 </cenario>
 
