@@ -52,11 +52,13 @@
 			<scope>test</scope>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/oracle/ojdbc6 -->
 		<dependency>
-			<groupId>com.oracle</groupId>
+			<groupId>oracle</groupId>
 			<artifactId>ojdbc6</artifactId>
 			<version>11.2.0</version>
 		</dependency>
+
 
 		<!-- DataSource (HikariCP) -->
 		<dependency>
