@@ -1,3 +1,25 @@
+##Considerações Filipe Mapelli ##
+Tive problemas com a dependência do Oracle JDBC, e com a instalação do grunt. 
+Então decidi esquecer o frontend e o Oracle e fazer o projeto do zero com MYSQL, 
+porém programar tudo do zero levaria muito mais tempo que 2 horas. Então fiz o que pude, consegui fazer um enpoint 
+(crud) do produto, porém sem tratamentos de retorno. 
+
+Segue link do projeto com MYSQL em meu git https://github.com/FilipeMapelli/quitanda 
+
+Se for possível posso terminar e fazer o sistema BACKEND completo, pois eu iria incluir muita coisa (services) ai pro Tio Barnabé. 
+
+Angular sou iniciante, estou aprendendo agora, inclusive tem um repo no meu gitHub de estudos de angular. 
+Tenho outro projeto em fase final (freela), em repositório privado se por acaso quiser ver me avisa que mando o invite para visualização. 
+
+Agradeço a oportunidade.
+
+Att,
+
+Filipe Mapelli
+
+
+
+
 ## Quitanda do Barnabé
 <cenario>
 Barnabé é um quitandeiro muito antenado nas últimas tendências de técnicas que auxiliem o seu negócio, porém nem sempre foi assim.
