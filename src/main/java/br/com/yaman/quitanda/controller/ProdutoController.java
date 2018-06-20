@@ -24,5 +24,4 @@ public class ProdutoController extends CrudControllerBase<Produto> {
 	public GenericCrudBusiness<Produto> getBusinessClass() {		
 		return business;
 	}
-
 }
