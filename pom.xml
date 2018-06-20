@@ -53,9 +53,11 @@
 		</dependency>
 
 		<dependency>
-			<groupId>com.oracle</groupId>
+			<groupId>com.groupid.ojdbc6</groupId>
 			<artifactId>ojdbc6</artifactId>
 			<version>11.2.0</version>
+			<scope>system</scope>
+			<systemPath>C:/Users/José Carlos/workspace/QuitandaBackend/ojdbc6.jar</systemPath>
 		</dependency>
 
 		<!-- DataSource (HikariCP) -->

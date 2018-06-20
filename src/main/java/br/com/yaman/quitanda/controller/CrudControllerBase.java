@@ -33,7 +33,7 @@ public abstract class CrudControllerBase<T> {
 			LOGGER.error(e.getMessage(),e);
 			return new ArrayList<T>();
 		}
-        
+       
     }
   
     @RequestMapping(value = "save", method = RequestMethod.POST)
